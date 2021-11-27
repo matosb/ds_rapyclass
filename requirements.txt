@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+matplotlib.pyplot
+urllib.request
+re 
+bs4 
+imageio
+cv2
+tensorflow
+tensorflow_addons
+transformers
+tensorflow.keras.layers.experimental
+unicodedata
+joblib
